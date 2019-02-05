@@ -1,6 +1,11 @@
 #map {
     height: 650px;
 }
+
+.cid-rfdX4kfrYt .google-map {
+    height: 40rem;
+}
+
 .leaflet-popup-content {
 /* change size of margin */
 	margin: 14px 14px;
