@@ -27,3 +27,11 @@
     a:hover {
         color: #e11b3c;
     }
+
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
